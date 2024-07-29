@@ -1,4 +1,4 @@
-# leetcode-for-placements
+# DSA-for-Placements
 # Data Structures and Algorithms
 
 This repository contains explanations and example implementations of various Data Structures and Algorithms topics.
